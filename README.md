@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rohaan Qutab.
-- 👀 I’m interested in UI/UX, web development, software development and machine learning.
-- 🌱 I’m currently learning front-end development and C++ to build foundational programming skills.
-- 💞️ I’m looking to collaborate on beginner-friendly front-end and C++ projects that focuses on foundational concepts to gain more hands-on experience.
+- 👀 I’m interested in automations, software development and machine learning.
+- 🌱 I’m currently learning C++ to build foundational programming skills.
+- 💞️ I’m looking to collaborate on beginner-friendly automation and C++ projects that focuses on foundational concepts to gain more hands-on experience.
 - 📫 Let's connect qutabrohaan@gmail.com
 
 <!---
